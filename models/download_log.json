@@ -1,0 +1,73 @@
+{
+  "downloads": {
+    "microsoft/DialoGPT-small": {
+      "status": "success",
+      "download_time": "2025-06-14T21:16:46.448846",
+      "duration_seconds": 43.8,
+      "size": "117M",
+      "description": "M3 \uc2e4\ud5d8 \uae30\uc900\uc810",
+      "local_path": "/raid/home/a202021038/workspace/projects/hong/korean_speculative_decoding_h100/models/models--microsoft--DialoGPT-small/snapshots/49c537161a457d5256512f9d2d38a87d81ae0f0e"
+    },
+    "alibaba/Qwen2-1.5B-Instruct": {
+      "status": "failed",
+      "error": "401 Client Error. (Request ID: Root=1-684d682f-7c7e7f7b32d86e84201471b0;96691961-987b-460a-8569-3b21acda95c5)\n\nRepository Not Found for url: https://huggingface.co/api/models/alibaba/Qwen2-1.5B-Instruct/revision/main.\nPlease make sure you specified the correct `repo_id` and `repo_type`.\nIf you are trying to access a private or gated repo, make sure you are authenticated.\nInvalid username or password.",
+      "download_time": "2025-06-14T21:16:47.667860"
+    },
+    "microsoft/Phi-3.5-mini-instruct": {
+      "status": "success",
+      "download_time": "2025-06-14T21:21:19.295659",
+      "duration_seconds": 270.6,
+      "size": "3.8B",
+      "description": "M3 3.8B \uc9c1\uc811 \ube44\uad50",
+      "local_path": "/raid/home/a202021038/workspace/projects/hong/korean_speculative_decoding_h100/models/models--microsoft--Phi-3.5-mini-instruct/snapshots/3145e03a9fd4cdd7cd953c34d9bbf7ad606122ca"
+    },
+    "alibaba/Qwen2-7B-Instruct": {
+      "status": "failed",
+      "error": "401 Client Error. (Request ID: Root=1-684d6940-71a7402e16ad528279d6e1b8;8af5849f-6079-4142-a103-a1f9a2d1f8e8)\n\nRepository Not Found for url: https://huggingface.co/api/models/alibaba/Qwen2-7B-Instruct/revision/main.\nPlease make sure you specified the correct `repo_id` and `repo_type`.\nIf you are trying to access a private or gated repo, make sure you are authenticated.\nInvalid username or password.",
+      "download_time": "2025-06-14T21:21:20.635352"
+    },
+    "google/gemma-2-9b-it": {
+      "status": "failed",
+      "error": "401 Client Error. (Request ID: Root=1-684d6942-47d2172231d3ad0b3080a4a2;0e6ff791-8064-4bb0-bf64-5a0fce460b54)\n\nCannot access gated repo for url https://huggingface.co/google/gemma-2-9b-it/resolve/11c9b309abf73637e4b6f9a3fa1e92e615547819/.gitattributes.\nAccess to model google/gemma-2-9b-it is restricted. You must have access to it and be authenticated to access it. Please log in.",
+      "download_time": "2025-06-14T21:21:22.429805"
+    },
+    "microsoft/Phi-3-medium-14b-instruct": {
+      "status": "failed",
+      "error": "401 Client Error. (Request ID: Root=1-684d6943-17c4b81437f782c77561198c;9c77036d-7830-4548-840f-d3118180c4c8)\n\nRepository Not Found for url: https://huggingface.co/api/models/microsoft/Phi-3-medium-14b-instruct/revision/main.\nPlease make sure you specified the correct `repo_id` and `repo_type`.\nIf you are trying to access a private or gated repo, make sure you are authenticated.\nInvalid username or password.",
+      "download_time": "2025-06-14T21:21:23.636510"
+    },
+    "Qwen/Qwen2-1.5B-Instruct": {
+      "status": "success",
+      "download_time": "2025-06-14T21:31:15.564035",
+      "duration_seconds": 115.3,
+      "size": "1.5B",
+      "description": "M3 1.3B \ub300\uccb4",
+      "local_path": "/raid/home/a202021038/workspace/projects/hong/korean_speculative_decoding_h100/models/models--Qwen--Qwen2-1.5B-Instruct/snapshots/ba1cf1846d7df0a0591d6c00649f57e798519da8"
+    },
+    "Qwen/Qwen2-7B-Instruct": {
+      "status": "success",
+      "download_time": "2025-06-14T21:37:34.815411",
+      "duration_seconds": 377.2,
+      "size": "7B",
+      "description": "\uc911\uac04 \ud06c\uae30 \uae30\uc900",
+      "local_path": "/raid/home/a202021038/workspace/projects/hong/korean_speculative_decoding_h100/models/models--Qwen--Qwen2-7B-Instruct/snapshots/f2826a00ceef68f0f2b946d945ecc0477ce4450c"
+    },
+    "microsoft/Phi-3-small-8k-instruct": {
+      "status": "success",
+      "download_time": "2025-06-14T21:44:11.959618",
+      "duration_seconds": 396.1,
+      "size": "7B",
+      "description": "\ub300\uc548 7B \ubaa8\ub378",
+      "local_path": "/raid/home/a202021038/workspace/projects/hong/korean_speculative_decoding_h100/models/models--microsoft--Phi-3-small-8k-instruct/snapshots/1535ae26fb4faada95c6950e8bc6e867cdad6b00"
+    },
+    "mistralai/Mistral-7B-Instruct-v0.3": {
+      "status": "failed",
+      "error": "401 Client Error. (Request ID: Root=1-684d6e9d-3d4e61e345068c337be6c2a6;a014d9d9-39b1-4157-8ee9-11f5172c24ac)\n\nCannot access gated repo for url https://huggingface.co/mistralai/Mistral-7B-Instruct-v0.3/resolve/e0bc86c23ce5aae1db576c8cca6f06f1f73af2db/.gitattributes.\nAccess to model mistralai/Mistral-7B-Instruct-v0.3 is restricted. You must have access to it and be authenticated to access it. Please log in.",
+      "download_time": "2025-06-14T21:44:14.226915"
+    }
+  },
+  "metadata": {
+    "created": "2025-06-14T21:15:57.456970",
+    "last_updated": "2025-06-14T21:44:14.226950"
+  }
+}

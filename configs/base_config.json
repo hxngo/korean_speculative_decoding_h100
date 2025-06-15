@@ -1,0 +1,23 @@
+{
+  "project": {
+    "name": "Korean Speculative Decoding H100",
+    "version": "1.0.0",
+    "description": "Research on Korean language speculative decoding with H100"
+  },
+  "hardware": {
+    "device": "cuda",
+    "precision": "fp16",
+    "batch_size": 8,
+    "max_memory": "80GB"
+  },
+  "paths": {
+    "models": "./models",
+    "data": "./data",
+    "results": "./results",
+    "logs": "./logs"
+  },
+  "logging": {
+    "level": "INFO",
+    "format": "%(asctime)s - %(name)s - %(levelname)s - %(message)s"
+  }
+}

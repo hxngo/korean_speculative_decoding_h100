@@ -1,0 +1,38 @@
+# Core Dependencies
+torch>=2.0.0
+transformers>=4.35.0
+accelerate>=0.24.0
+datasets>=2.14.0
+evaluate>=0.4.0
+huggingface_hub>=0.17.0
+
+# Evaluation & Metrics
+rouge-score>=0.1.2
+sacrebleu>=2.3.1
+nltk>=3.8.1
+
+# Data Processing
+pandas>=2.0.0
+numpy>=1.24.0
+scikit-learn>=1.3.0
+
+# Visualization
+matplotlib>=3.7.0
+seaborn>=0.12.0
+plotly>=5.15.0
+
+# Utilities
+tqdm>=4.65.0
+wandb>=0.15.0
+tensorboard>=2.13.0
+jupyter>=1.0.0
+
+# Korean Language Processing
+konlpy>=0.6.0
+sentencepiece>=0.1.99
+
+# Development
+pytest>=7.4.0
+black>=23.7.0
+flake8>=6.0.0
+mypy>=1.5.0

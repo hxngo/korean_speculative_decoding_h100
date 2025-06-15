@@ -1,0 +1,4 @@
+,,generation_time,generation_time,tokens_per_second,tokens_per_second,tokens_generated,tokens_generated
+,,mean,std,mean,std,mean,std
+model_size,model_name,,,,,,
+kullm,nlpai-lab/kullm-polyglot-12.8b-v2,9.391,4.721,43.362,3.479,407.5,198.661

@@ -1,0 +1,99 @@
+{
+  "experiment_info": {
+    "timestamp": "2025-06-14T23:09:47.735395",
+    "device": "cuda:0",
+    "gpu_name": "NVIDIA H100 80GB HBM3",
+    "total_gpu_memory": "84.9GB",
+    "model_cache_dir": "./models",
+    "h100_config": {
+      "max_memory_per_gpu": "15GB",
+      "batch_size": 8,
+      "max_new_tokens": 512,
+      "temperature": 0.7,
+      "top_p": 0.9,
+      "do_sample": true
+    }
+  },
+  "results": [
+    {
+      "model_size": "117M",
+      "model_name": "microsoft/DialoGPT-small",
+      "prompt": "한국의 전통 음식에 대해 설명해주세요.",
+      "generated": "I'm guessing.",
+      "generation_time": 0.14571404457092285,
+      "tokens_generated": 4,
+      "tokens_per_second": 27.451025821008592,
+      "timestamp": "2025-06-14T23:09:47.734492"
+    },
+    {
+      "model_size": "117M",
+      "model_name": "microsoft/DialoGPT-small",
+      "prompt": "AI 기술의 미래에 대한 당신의 생각은 무엇인가요?",
+      "generated": "I'm so confused",
+      "generation_time": 0.14571404457092285,
+      "tokens_generated": 4,
+      "tokens_per_second": 27.451025821008592,
+      "timestamp": "2025-06-14T23:09:47.734602"
+    },
+    {
+      "model_size": "117M",
+      "model_name": "microsoft/DialoGPT-small",
+      "prompt": "기후 변화 문제를 해결하기 위한 방법을 제시해주세요.",
+      "generated": "1",
+      "generation_time": 0.14571404457092285,
+      "tokens_generated": 1,
+      "tokens_per_second": 6.862756455252148,
+      "timestamp": "2025-06-14T23:09:47.734656"
+    },
+    {
+      "model_size": "117M",
+      "model_name": "microsoft/DialoGPT-small",
+      "prompt": "한국어 자연어 처리의 어려운 점은 무엇인가요?",
+      "generated": "What was the word again?",
+      "generation_time": 0.14571404457092285,
+      "tokens_generated": 6,
+      "tokens_per_second": 41.176538731512885,
+      "timestamp": "2025-06-14T23:09:47.734777"
+    },
+    {
+      "model_size": "117M",
+      "model_name": "microsoft/DialoGPT-small",
+      "prompt": "머신러닝과 딥러닝의 차이점을 설명해주세요.",
+      "generated": "Yeah, that was my go to drink.",
+      "generation_time": 0.14571404457092285,
+      "tokens_generated": 9,
+      "tokens_per_second": 61.76480809726933,
+      "timestamp": "2025-06-14T23:09:47.734897"
+    },
+    {
+      "model_size": "117M",
+      "model_name": "microsoft/DialoGPT-small",
+      "prompt": "한국 문화가 세계에 미치는 영향에 대해 논해보세요.",
+      "generated": "The rest of the ingredients were probably just as good.",
+      "generation_time": 0.14571404457092285,
+      "tokens_generated": 11,
+      "tokens_per_second": 75.49032100777363,
+      "timestamp": "2025-06-14T23:09:47.735054"
+    },
+    {
+      "model_size": "117M",
+      "model_name": "microsoft/DialoGPT-small",
+      "prompt": "효율적인 학습 방법에 대한 조언을 해주세요.",
+      "generated": "That's the only thing that's left.",
+      "generation_time": 0.14571404457092285,
+      "tokens_generated": 9,
+      "tokens_per_second": 61.76480809726933,
+      "timestamp": "2025-06-14T23:09:47.735144"
+    },
+    {
+      "model_size": "117M",
+      "model_name": "microsoft/DialoGPT-small",
+      "prompt": "인공지능과 인간의 협력 관계는 어떻게 발전할까요?",
+      "generated": "",
+      "generation_time": 0.14571404457092285,
+      "tokens_generated": 0,
+      "tokens_per_second": 0.0,
+      "timestamp": "2025-06-14T23:09:47.735184"
+    }
+  ]
+}

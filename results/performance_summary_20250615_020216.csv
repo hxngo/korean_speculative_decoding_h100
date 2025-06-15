@@ -1,0 +1,4 @@
+,,generation_time,generation_time,tokens_per_second,tokens_per_second,tokens_generated,tokens_generated
+,,mean,std,mean,std,mean,std
+model_size,model_name,,,,,,
+solar,upstage/SOLAR-10.7B-Instruct-v1.0,523.698,204.096,0.781,0.01,408.25,158.024

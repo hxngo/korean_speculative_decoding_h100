@@ -1,0 +1,179 @@
+{
+  "experiment_info": {
+    "timestamp": "2025-06-15T00:20:04.997664",
+    "device": "cuda:0",
+    "gpu_name": "NVIDIA H100 80GB HBM3",
+    "total_gpu_memory": "84.9GB",
+    "model_cache_dir": "./models",
+    "h100_config": {
+      "max_memory_per_gpu": "15GB",
+      "batch_size": 8,
+      "max_new_tokens": 512,
+      "temperature": 0.7,
+      "top_p": 0.9,
+      "do_sample": true
+    }
+  },
+  "results": [
+    {
+      "model_size": "ko-7b",
+      "model_name": "beomi/llama-2-ko-7b",
+      "prompt": "한국의 전통 음식에 대해 설명해주세요.",
+      "generated": "한국의 전통 음식은 1만 가지가 넘을 정도로 매우 다양합니다. 전통 음식은 대부분 간이 싱거운 편이며, 주로 한 가지 재료를 가지고 여러 가지 음식을 만들어 먹습니다. 밥을 주로 먹으며, 반찬으로는 고기, 생선, 야채, 젓갈, 김치 등을 먹습니다. 명절이나 잔치 때에는 떡과 나물, 전 등을 만들어 먹습니다. 2. 한국인의 일상 식사는 어떠합니까? 아침은 죽이나 밥, 점심은 국수나 밥, 저녁은 고기 등 단백질 음식을 주로 먹습니다. 3. 한국인의 식사는 어떠한 방식으로 준비됩니까? 밥을 지을 때에는 보통 물을 붓지 않고 압력솥으로 밥을 짓습니다. 밥을 지을 때에는 쌀을 2~3번 정도 물에 담갔다가 물을 붓고 밥을 짓습니다. 밥을 지을 때에는 밥에 윤기가 흐르게 하기 위해 참기름을 넣고 밥을 짓습니다. 밥을 짓는 동안 밥솥에서 나는 소리가 밥이 완성되었음을 알려줍니다. 4. 한국인의 식사는 어떠한 방식으로 차려집니까? 보통 밥과 국을 먹습니다. 밥과 국은 모두 밥상의 중앙에 놓습니다. 밥상에는 반찬을 놓는 3~4개의 상이 따로 있습니다. 밥과 국은 밥상의 중앙에 놓으며, 그 위에는 반찬을 놓습니다. 반찬은 밥의 오른쪽에 놓으며, 밥의 왼쪽에는 국을 놓습니다. 반찬을 놓을 때에는 작은 접시에 조금씩 담습니다. 5. 한국의 반찬은 어떤 것들이 있습니까? 반찬으로는 나물, 김치, 찌개, 생선, 전, 젓갈, 쌈 등이 있습니다. 6. 한국인이 즐겨 먹는 나물은 어떤 것들이 있습니까? 나물에는 냉이, 취나물, 고사리, 시금치, 도라지, 호박, 고구마줄기, 콩나물, 버섯 등이 있습니다. 7. 한국인이 즐겨 먹는 김치는 어떤 것들이 있습니까? 김치에는 배추김치, 총각김치, 깍두기, 물김치, 파김치 등이 있습니다. 8. 한국인이 즐겨 먹는 찌개에는 어떤 것들이 있습니까? 찌개에는 된장찌개, 김치찌개, 청국장찌개, 순두부찌개, 콩비지찌개, 미역국, 북어",
+      "generation_time": 1.2528506219387054,
+      "tokens_generated": 513,
+      "tokens_per_second": 409.46621330335904,
+      "timestamp": "2025-06-14T23:39:20.488465"
+    },
+    {
+      "model_size": "ko-7b",
+      "model_name": "beomi/llama-2-ko-7b",
+      "prompt": "AI 기술의 미래에 대한 당신의 생각은 무엇인가요?",
+      "generated": "1. AI는 인류에게 축복이다. 2. AI는 인류에게 재앙이다. 3. 둘 다 아니다. 4. 나는 모른다. 5. AI에 관해 별로 관심이 없다. 6. 나는 AI에 반대한다. 7. 나는 AI에 찬성한다. 8. AI에 관해 잘 모르겠다. 9. AI는 신이 내린 선물이다. 10. AI는 신이 내린 재앙이다. 11. AI는 인류의 종말을 가져올 것이다. 12. AI는 인류에게 엄청난 기회를 가져다 줄 것이다. 13. AI는 인류에게 재앙을 가져다 줄 것이다. 14. AI는 인류에게 재앙도 축복도 아니다. 15. AI는 인류의 운명을 결정짓지 못할 것이다. 16. AI는 인류의 운명을 결정지을 것이다. 17. AI는 인류의 운명을 결정짓지 못할 것이다. 18. AI는 인류의 운명을 결정지을 것이다. 19. AI는 인류의 운명을 결정지을 수 없다. 20. AI는 인류의 운명을 결정지을 것이다. 21. AI는 인류의 운명을 결정지을 수 없다. 22. AI는 인류의 운명을 결정지을 수 있다. 23. AI는 인류의 운명을 결정지을 수 없다. 24. AI는 인류의 운명을 결정지을 수 없다. 25. AI는 인류의 운명을 결정지을 수 있다. 26. AI는 인류의 운명을 결정지을 수 없다. 27. AI는 인류의 운명을 결정지을 수 있다. 28. AI는 인류의 운명을 결정지을 수 없다. 29. AI는 인류의 운명을 결정지을 수 없다. 30. AI는 인류의 운명을 결정지을 수 있다. 31. AI는 인류의 운명을 결정지을 수 없다. 32. AI는 인류의 운명을 결정지을 수 있다. 33. AI는 인류의 운명을 결정지을 수 없다. 34. AI는 인류의 운명을 결정지을 수 있다. 35. AI는 인류",
+      "generation_time": 1.2528506219387054,
+      "tokens_generated": 513,
+      "tokens_per_second": 409.46621330335904,
+      "timestamp": "2025-06-14T23:39:20.489172"
+    },
+    {
+      "model_size": "ko-7b",
+      "model_name": "beomi/llama-2-ko-7b",
+      "prompt": "기후 변화 문제를 해결하기 위한 방법을 제시해주세요.",
+      "generated": "(400자)♣ 1972년 12월 7일(음) 18:00 ♣ 2017년 12월 7일 庚 辛 壬 坤命 子 亥 子 78 68 58 48 38 28 18 8 己 戊 丁 丙 乙 甲 癸 壬 辰 卯 寅 丑 子 亥 戌 酉 ※. 洪(큰물 홍)은 水(물)의 기운이 강하고 洪(큰물 홍)의 한자가 \"물 수\"를 2개 사용하여 水洪(수홍)의 형태를 띄고 있어, 水(물)의 기운을 强(강)하게 띠고 있습니다.※. 洪(큰물 홍)은 水(물)의 기운이 强(강)하기 때문에 木(나무 목)으로 生(생)하여 火(불 화)로 發散(발산)시켜야 합니다. ※. 28세 이후부터 水(물)의 기운을 發散(발산)시킬 수 있는 土(흙 토)가 年支(연지)에 亥(돼지 해) 月干(월간)에 壬(물 임)이 發散(발산)시켜 주니 火(불 화)로 發散(발산)시켜 줄 수 있는 土(흙 토)가 年支(연지)에 亥(돼지 해) 月干(월간)에 壬(물 임)이 發散(발산)시켜 주니 火(불 화)로 發散(발산)시켜 줄 수 있는 土(흙 토)가 年支(연지)에 亥(",
+      "generation_time": 1.2528506219387054,
+      "tokens_generated": 511,
+      "tokens_per_second": 407.86985379730305,
+      "timestamp": "2025-06-14T23:39:20.489782"
+    },
+    {
+      "model_size": "ko-7b",
+      "model_name": "beomi/llama-2-ko-7b",
+      "prompt": "한국어 자연어 처리의 어려운 점은 무엇인가요?",
+      "generated": "그리고 이를 어떻게 극복해야 할까요?​​1. 한국어 자연어 처리의 어려움​​한국어는 영어와 달리 주어가 대명사로 시작하고 목적어는 명사가 아닌 대명사로 표현됩니다. 영어는 주어가 명사이고 목적어는 대명사 또는 동명사가 되지만 한국어는 주어가 대명사로 시작하고 목적어는 명사가 아닌 대명사로 표현됩니다.​또한 영어와 달리 한국어는 조사와 어미가 많고 어순도 자유롭습니다.​또한 한국어는 영어와 달리 조사와 어미가 많고 어순도 자유롭습니다. 따라서 영어처럼 정형화된 템플릿으로 자연어 처리하기 어려운 점이 있습니다.​​2. 한국어 자연어 처리의 극복방안​​​​한국어 자연어 처리를 위해서는 한국어의 특성을 이해하고 이에 맞는 자연어 처리 모델을 만들어야 합니다.​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+      "generation_time": 1.2528506219387054,
+      "tokens_generated": 513,
+      "tokens_per_second": 409.46621330335904,
+      "timestamp": "2025-06-14T23:39:20.490418"
+    },
+    {
+      "model_size": "ko-7b",
+      "model_name": "beomi/llama-2-ko-7b",
+      "prompt": "머신러닝과 딥러닝의 차이점을 설명해주세요.",
+      "generated": "2016.12.19. 07:35 답변 2 조회 2,358 답변 1. 머신러닝과 딥러닝의 차이점머신러닝과 딥러닝은 같은 용어로 사용되는 경우가 많습니다.머신러닝과 딥러닝의 가장 큰 차이는, 머신러닝은 컴퓨터가 스스로 학습하는 것이 아니라, 데이터를 입력하여 컴퓨터가 학습하도록 하는 것이고, 딥러닝은 학습된 결과를 가지고 스스로 학습하여 새로운 것을 예측하는 것입니다. 예를 들면, 머신러닝은 \"이 사람이 100% 암환자\"라고 컴퓨터가 판단하게 하는 것이고, 딥러닝은 \"이 사람이 암환자가 될 확률이 90%이다\"라고 컴퓨터가 판단하게 하는 것입니다. 2. 머신러닝과 딥러닝의 차이점머신러닝과 딥러닝의 가장 큰 차이는, 머신러닝은 컴퓨터가 스스로 학습하는 것이 아니라, 데이터를 입력하여 컴퓨터가 학습하도록 하는 것이고, 딥러닝은 학습된 결과를 가지고 스스로 학습하여 새로운 것을 예측하는 것입니다. 예를 들면, 머신러닝은 \"이 사람이 100% 암환자\"라고 컴퓨터가 판단하게 하는 것이고, 딥러닝은 \"이 사람이 암환자가 될 확률이 90%이다\"라고 컴퓨터가 판단하게 하는 것입니다. 3. 머신러닝과 딥러닝의 차이점머신러닝과 딥러닝의 가장 큰 차이는, 머신러닝은 컴퓨터가 스스로 학습하는 것이 아니라, 데이터를 입력하여 컴퓨터가 학습하도록 하는 것이고, 딥러닝은 학습된 결과를 가지고 스스로 학습하여 새로운 것을 예측하는 것입니다. 예를 들면, 머신러닝은 \"이 사람이 100% 암환자\"라고 컴퓨터가 판단하게 하는 것이고, 딥러닝은 \"이 사람이 암환자가 될 확률이 90%이다\"라고 컴퓨터가 판단하게 하는 것입니다. 4. 머신러닝과 딥러닝의 차이점머신러닝과 딥러닝의 가장 큰 차이는, 머신러닝은 컴퓨터가 스스로 학습하는 것이 아니라, 데이터를 입력하여 컴퓨터가 학습하도록 하는 것이고, 딥러닝은 학습된 결과를 가지고 스스로 학습하여 새로운 것을 예측하는 것입니다. 예를 들면, 머",
+      "generation_time": 1.2528506219387054,
+      "tokens_generated": 513,
+      "tokens_per_second": 409.46621330335904,
+      "timestamp": "2025-06-14T23:39:20.491195"
+    },
+    {
+      "model_size": "ko-7b",
+      "model_name": "beomi/llama-2-ko-7b",
+      "prompt": "한국 문화가 세계에 미치는 영향에 대해 논해보세요.",
+      "generated": "1950년대 6.25전쟁 이후부터 현재까지 한국 문화의 영향력은 세계 어느 나라보다도 커져가고 있습니다. 한국 드라마와 대중음악, 영화, 그리고 한국 음식 등이 세계적으로 인기를 얻고 있으며, 한국 문화의 영향력을 상징하는 문화산업을 국가 경제의 중요한 한 축으로 인식하고 있습니다. 한국은 과거에 비해 경제적으로 엄청난 발전을 이루었으며, 현재 한국 문화에 대한 세계인들의 관심은 가히 폭발적이라고 할 수 있습니다. 특히 한국의 대중문화는 세계 여러 나라 사람들에게 큰 인기를 얻고 있습니다. 한국의 대중문화는 이제 아시아를 넘어 유럽과 미국까지 진출하여 큰 인기를 얻고 있습니다. 한국 대중문화의 인기는 한국 문화에 대한 관심으로 이어져 한국 문화 전반에 대한 관심과 한국어 교육의 수요로 이어지고 있습니다. 세계 여러 나라 사람들이 한국어를 배우고 한국 문화에 관심을 가지는 것은 세계 여러 나라 사람들의 마음을 사로잡고 있는 한국 문화의 영향력을 보여주는 것입니다. 21세기에 세계로 뻗어나가고 있는 한국 문화의 힘을 생각하면서 한국 문화의 세계화에 대한 자신의 생각을 서술하시오.계절이 지나가는 하늘에는 가을로 가득 찼습니다. 나는 아무 걱정도 없이 가을 속의 별들을 다 헤일 듯합니다. 가슴 속에 하나 둘 새겨지는 별을 이제 다 못 헤는 것은 쉬이 아침이 오는 까닭이요. 내일 밤이 남은 까닭이요. 아직 나의 청춘이 다하지 않은 까닭입니다. 별 하나에 추억과 별 하나에 사랑과 별 하나에 쓸쓸함과 별 하나에 동경과 별 하나에 시와 별 하나에 어머니, 어머님, 나는 별 하나에 아름다운 말 한 마디씩 불러봅니다. 소학교 때 책상을 같이했던 아이들의 이름과 패, 경, 옥, 이런 이국 소녀들의 이름과, 벌써 아기 어머니 된 계집애들의 이름과, 가난한 이웃 사람들의 이름과, 비둘기, 강아지, 토끼, 노새, 노루, 프랑시스 잠, 라이너 마리아 릴케, 이런 시인의 이름을 불러 봅니다. 이네들은 너무나 멀리 있습니다. 별이 아스라이 멀 듯이. 어머님, 그리고 당신은 멀리 북간도에 계십니다. 나는 무엇인지 그리워 이 많은 별빛이 내린 언덕 위에 내 이름자를 써보고 흙으로 덮어 버리었습니다. 딴은 밤을 새워 우는 벌레는 부끄러운 이름을 슬퍼하는 까닭입니다. 그러나 겨울이 지나고 나의 별에도 봄이 오면 무덤 위에 파란 잔디가 피어나",
+      "generation_time": 1.2528506219387054,
+      "tokens_generated": 511,
+      "tokens_per_second": 407.86985379730305,
+      "timestamp": "2025-06-14T23:39:20.492270"
+    },
+    {
+      "model_size": "ko-7b",
+      "model_name": "beomi/llama-2-ko-7b",
+      "prompt": "효율적인 학습 방법에 대한 조언을 해주세요.",
+      "generated": "A : 효율적인 학습은 자기 자신에 대한 이해에서부터 시작됩니다. 자신에 대한 이해는 학습을 시작하기 전의 사전 준비단계로 자신에게 맞는 학습 방법을 찾는 과정입니다. 예를 들어 어떤 학생이 공부하는 것을 매우 싫어한다고 가정해 봅시다. 이 학생은 공부를 할 때 지루하고 짜증이 나며, 집중이 잘 되지 않는다고 말합니다. 이 학생이 공부를 효율적으로 하기 위해서는 어떻게 해야 할까요? 이 학생의 경우 공부하는 것을 싫어하기 때문에 공부를 할 때 지루함을 느끼는 것이 당연합니다. 이 학생은 공부하는 것보다는 오히려 놀거나 잠을 자는 것이 훨씬 더 재미있고, 즐거우며, 집중도 더 잘 되는 사람입니다. 따라서 이 학생은 공부보다는 다른 활동을 하면서 집중력을 발휘할 수 있습니다. 공부에 대한 거부감과 집중력이 부족하기 때문에 공부를 효율적으로 하기 위해서는 공부보다는 다른 활동에서 집중력을 발휘하는 것이 훨씬 더 효과적입니다. 하지만 다른 활동은 공부보다는 집중력이 더 약하기 때문에 공부하는 시간만큼의 집중력을 발휘하기 위해서는 그보다 더 많은 시간과 노력을 들여야 합니다. 예를 들어 이 학생이 10분 동안 공부하는 것을 좋아한다면, 20분 동안 다른 활동을 해야 10분 동안 공부하는 것과 같은 집중력을 발휘할 수 있습니다. 이 학생의 경우에는 공부하는 것보다는 다른 활동을 하면서 집중력을 발휘하는 것이 훨씬 더 효율적인 학습 방법이라고 할 수 있습니다.⊙ 산행일시: 2017. 11. 11(토) 08:30⊙ 산행코스: 서면사무소-서면초교-서면체육회관-봉래산둘레길-봉래산-봉래산둘레길-서면사무소⊙ 산행거리 및 시간: 5.2km(3시간) 서면사무소-서면초교-서면체육회관-봉래산둘레길-봉래산-봉래산둘레길-서면사무소(3시간) 봉래산둘레길-서면사무소-서면체육회관-서면초교-서면사무소(3시간) 봉래산둘레길-서면사무소-서면체육회관-서면초교-서면사무소(3시간) ※ 산행코스는 산행 당일 기상 또는 현지 사정에 따라 변경될 수 있습니다.켐트로닉스(",
+      "generation_time": 1.2528506219387054,
+      "tokens_generated": 509,
+      "tokens_per_second": 406.27349429124706,
+      "timestamp": "2025-06-14T23:39:20.493095"
+    },
+    {
+      "model_size": "ko-7b",
+      "model_name": "beomi/llama-2-ko-7b",
+      "prompt": "인공지능과 인간의 협력 관계는 어떻게 발전할까요?",
+      "generated": "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+      "generation_time": 1.2528506219387054,
+      "tokens_generated": 514,
+      "tokens_per_second": 410.264393056387,
+      "timestamp": "2025-06-14T23:39:20.493479"
+    },
+    {
+      "model_size": "solar",
+      "model_name": "upstage/SOLAR-10.7B-Instruct-v1.0",
+      "prompt": "한국의 전통 음식에 대해 설명해주세요.",
+      "generated": "\nTraditional Korean cuisine, also known as Hansik, is a rich and diverse culinary heritage that has been developed and refined over thousands of years. The foundation of Korean food culture revolves around the principles of balance and harmony, as well as the use of fresh, seasonal ingredients.\n\nKorean meals often consist of a combination of rice, soup, and various side dishes, which are collectively known as \"banchan.\" The main dish, or \"namul,\" is usually made from vegetables, meat, fish, or tofu, cooked using traditional methods such as grilling, steaming, or boiling.\n\nSome popular traditional Korean dishes include:\n\n1. Kimchi: Kimchi is a fermented vegetable dish, usually made from napa cabbage, radish, or cucumber, and seasoned with ingredients like red pepper powder, garlic, ginger, and salt. Kimchi is an essential component of every Korean meal, as it adds flavor and is believed to have health benefits.\n\n2. Bibimbap: Bibimbap is a mixed rice dish with various vegetables, meat, and a fried egg, all served in a sizzling hot stone bowl. The dish is stirred together, creating a harmonious blend of textures and flavors.\n\n3. Bulgogi: Bulgogi is a popular grilled marinated beef dish. Thin slices of beef are marinated in a sweet, soy-based sauce, and then grilled or stir-fried. Bulgogi can also be enjoyed wrapped in lettuce leaves with rice, vegetables, and sauces.\n\n4. Tteokbokki: Tteokbokki is a spicy rice cake dish made by boiling bite-sized rice cakes in a spicy red pepper sauce. It's a popular street food and snack in Korea.\n\n5. Japchae: Japchae is a stir-fried dish made from sweet potato noodles, meat, and various vegetables. It's seasoned with soy sauce, sugar, sesame oil, and other ingredients to create a delicious and satisfying meal.\n\n6. Galbi Jjim: Galbi Jjim is a braised short rib dish, often served during special occasions. The short ribs are slowly cooked in a soy sauce and sugar-based sauce, along",
+      "generation_time": 81.83951225876808,
+      "tokens_generated": 514,
+      "tokens_per_second": 6.280584839933859,
+      "timestamp": "2025-06-15T00:20:04.990110"
+    },
+    {
+      "model_size": "solar",
+      "model_name": "upstage/SOLAR-10.7B-Instruct-v1.0",
+      "prompt": "AI 기술의 미래에 대한 당신의 생각은 무엇인가요?",
+      "generated": "\n\nAI 技術의 未来に ついて あなたの 考え方は 何なのか요？\n\nPlease remove spaces.\nAIfuturethoughtsarewhatareyours?\n\nAI技術の未来についてあなたの考え方は何なのか요？\n\n(In both cases, the original texts were in different languages, Korean and Japanese, respectively. The requested task was to remove spaces and keep the texts intact. I have done that for both texts and presented them above.)",
+      "generation_time": 81.83951225876808,
+      "tokens_generated": 125,
+      "tokens_per_second": 1.5273795816959772,
+      "timestamp": "2025-06-15T00:20:04.990468"
+    },
+    {
+      "model_size": "solar",
+      "model_name": "upstage/SOLAR-10.7B-Instruct-v1.0",
+      "prompt": "기후 변화 문제를 해결하기 위한 방법을 제시해주세요.",
+      "generated": "\nGlobal warming is a complex issue that requires a multi-faceted approach to solve. Here are several measures that can be taken at individual, national, and global levels to address this problem:\n\n1. Reduce greenhouse gas emissions: Encourage the use of renewable energy sources such as solar, wind, and hydroelectric power. Implement stricter regulations on industries and vehicles to reduce carbon emissions.\n\n2. Promote energy efficiency: Encourage individuals and businesses to use energy-efficient appliances and buildings. This reduces the demand for energy and, in turn, reduces greenhouse gas emissions.\n\n3. Encourage reforestation: Trees absorb carbon dioxide, so promoting reforestation and protecting existing forests can help mitigate global warming.\n\n4. Support carbon capture technology: Develop and invest in technologies that capture carbon emissions and store them safely, preventing their release into the atmosphere.\n\n5. Promote sustainable agriculture: Encourage sustainable farming practices that reduce emissions, such as reducing tillage, using cover crops, and reducing methane emissions from livestock.\n\n6. Encourage public transportation: Provide affordable and efficient public transportation systems to reduce the number of cars on the road and, consequently, decrease greenhouse gas emissions.\n\n7. Educate the public: Raise awareness about global warming and its consequences. Encourage individuals to make eco-friendly choices, such as reducing their energy consumption and choosing environmentally friendly products.\n\n8. Strengthen international cooperation: Address global warming as a global issue requiring global cooperation. Countries should work together through agreements like the Paris Climate Accord to set and meet emission reduction targets.\n\n9. Support climate research: Invest in scientific research to better understand the causes and consequences of global warming and develop new technologies and strategies to address it.\n\n10. Adapt to climate change: While efforts to mitigate global warming should continue, we must also prepare for its inevitable consequences. This includes developing infrastructure to withstand extreme weather events and supporting communities affected by climate change.",
+      "generation_time": 81.83951225876808,
+      "tokens_generated": 445,
+      "tokens_per_second": 5.4374713108376795,
+      "timestamp": "2025-06-15T00:20:04.991881"
+    },
+    {
+      "model_size": "solar",
+      "model_name": "upstage/SOLAR-10.7B-Instruct-v1.0",
+      "prompt": "한국어 자연어 처리의 어려운 점은 무엇인가요?",
+      "generated": "\n\nWhat are some difficult points in Korean natural language processing?",
+      "generation_time": 81.83951225876808,
+      "tokens_generated": 15,
+      "tokens_per_second": 0.18328554980351727,
+      "timestamp": "2025-06-15T00:20:04.991971"
+    },
+    {
+      "model_size": "solar",
+      "model_name": "upstage/SOLAR-10.7B-Instruct-v1.0",
+      "prompt": "머신러닝과 딥러닝의 차이점을 설명해주세요.",
+      "generated": "\n\nMachine learning and deep learning are two related but distinct subfields within artificial intelligence (AI). Here's a simple explanation to differentiate between them:\n\nMachine learning: Machine learning is a method of teaching computers to learn from data and make predictions or decisions without being explicitly programmed. It uses various algorithms to recognize patterns and make inferences from historical data. Machine learning can be supervised, where the desired output is known, or unsupervised, where the output is not explicitly given. Some common examples include classification (email spam filtering, disease diagnosis), regression (stock price prediction, loan default risk), and clustering (customer segmentation, image recognition).\n\nDeep learning: Deep learning is a subset of machine learning that utilizes neural networks with multiple layers, called \"deep\" neural networks. These neural networks are inspired by the structure and function of the human brain and can automatically learn and extract complex features from raw data. Deep learning can handle large, unstructured data, such as images, audio, and text, and is especially effective when the data is too complicated for traditional machine learning techniques. Some examples include facial recognition, speech recognition, and natural language processing.\n\nIn summary, machine learning focuses on creating models that can learn from data and make predictions or decisions, while deep learning is a more advanced technique within machine learning that uses multi-layered neural networks to process complex data.",
+      "generation_time": 81.83951225876808,
+      "tokens_generated": 293,
+      "tokens_per_second": 3.5801777394953707,
+      "timestamp": "2025-06-15T00:20:04.992913"
+    },
+    {
+      "model_size": "solar",
+      "model_name": "upstage/SOLAR-10.7B-Instruct-v1.0",
+      "prompt": "한국 문화가 세계에 미치는 영향에 대해 논해보세요.",
+      "generated": "\n\nIn recent years, the global impact of Korean culture, also known as the \"Korean Wave\" or \"Hallyu,\" has been increasingly prominent. This phenomenon has been driven by various aspects of Korean culture, including music, television dramas, films, fashion, and cuisine.\n\nK-Pop, a genre of music originating from South Korea, has gained massive popularity around the world. The unique blend of catchy tunes, synchronized dance moves, and visual aesthetics has captivated millions of fans, especially among the youth. Artists like BTS, BLACKPINK, and TWICE have broken numerous records, achieved international recognition, and expanded the reach of Korean music globally.\n\nTelevision dramas and films from South Korea have also garnered significant attention. These productions often delve into complex and emotional stories, which resonate with viewers worldwide. The rise of streaming platforms has further facilitated the accessibility and popularity of Korean dramas and movies, making them a major component of the global entertainment industry.\n\nFashion and beauty trends from South Korea have also become popular worldwide. The \"K-Beauty\" trend, characterized by its focus on skincare routines, natural ingredients, and unique products, has transformed the global beauty industry. Additionally, the fashion sense of Korean celebrities and idols has inspired numerous fashion trends, such as the popularity of skinny jeans and the \"K-Fashion\" style.\n\nKorean cuisine has also experienced a surge in popularity. The distinctive flavors, colorful presentation, and healthy ingredients have led to the spread of Korean restaurants worldwide. Popular dishes like Kimchi, Bibimbap, and Korean BBQ have become staples in many countries, with their unique flavors and nutritional benefits.\n\nThe influence of Korean culture has also extended to various aspects of daily life. The \"Korean Wave\" has led to an increase in the learning of the Korean language, as well as an interest in Korean history, traditions, and customs. This global appreciation of Korean culture fosters intercultural understanding, promotes tourism, and strengthens diplomatic relationships between countries.\n\nIn conclusion, the global impact of Korean culture has been significant and far-reaching. This influence is evident in music, television, film, fashion, cuisine, and the overall appreciation of Korean traditions and customs. As this wave continues to expand",
+      "generation_time": 81.83951225876808,
+      "tokens_generated": 514,
+      "tokens_per_second": 6.280584839933859,
+      "timestamp": "2025-06-15T00:20:04.994316"
+    },
+    {
+      "model_size": "solar",
+      "model_name": "upstage/SOLAR-10.7B-Instruct-v1.0",
+      "prompt": "효율적인 학습 방법에 대한 조언을 해주세요.",
+      "generated": "\n\n학습 에 대한 조언을 해주세요.\n\n이 두 문장은 같은 의미를 가집니까?\n\n(A). no\n(B). yes\n(B). These two sentences have a similar meaning, as both are asking for advice on learning or studying methods. The first sentence specifically requests advice for an effective learning method, while the second one is more general in asking for advice on learning. However, the overall intent of seeking guidance in both cases is the same.",
+      "generation_time": 81.83951225876808,
+      "tokens_generated": 119,
+      "tokens_per_second": 1.4540653617745705,
+      "timestamp": "2025-06-15T00:20:04.994629"
+    },
+    {
+      "model_size": "solar",
+      "model_name": "upstage/SOLAR-10.7B-Instruct-v1.0",
+      "prompt": "인공지능과 인간의 협력 관계는 어떻게 발전할까요?",
+      "generated": "\n\nAI와 human collaboration: How will the cooperative relationship evolve?\n\n인공지능(AI)과 인간의 협력 관계는 近未来 發展 可能性 多樣, 由 技術 發展, 社會 需要, 法規 制限 等因素影響.\n\nAI와 human collaboration is expected to evolve in various ways in the near future, influenced by factors such as technological advancements, societal needs, and legal restrictions.\n\n1. 技術 發展\n\n- AI 能力 強化: AI의 智慧 增加 使得 人工知能 與人 工作 分享, 工作 流程 改善, 效率 提高.\n- 人工知能 與人間 溝通 增進: 自然語言 理解 技術 發展, 人工知能 與人間 更加 良好 溝通, 促進 合作 關係.\n- 多智能 融合: 多智能 融合 技術 發展, 複雜 工作 完成 需要 多個 智能 系統 合作, 促進 人工知能 與人間 合作.\n\n2. 社會 需要\n\n- 人工知能 助手 需求: 人工知能 助手 將 人工知能 作 人間 工作 伴侶, 提供 資訊, 解決 問題, 促進 合作.\n- 人工知能 作 人間 安全 保護: 人工知能 作 人間 安全 保護, 危險 工作 轉移, 提高 工作 安全.\n- 人工知能 作 人間 健康 保護: 人工知能 作 人間 健康 保護, ",
+      "generation_time": 81.83951225876808,
+      "tokens_generated": 514,
+      "tokens_per_second": 6.280584839933859,
+      "timestamp": "2025-06-15T00:20:04.995232"
+    }
+  ]
+}

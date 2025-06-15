@@ -1,0 +1,5 @@
+,,generation_time,generation_time,tokens_per_second,tokens_per_second,tokens_generated,tokens_generated
+,,mean,std,mean,std,mean,std
+model_size,model_name,,,,,,
+ko-7b,beomi/llama-2-ko-7b,1.253,0.0,408.768,1.311,512.125,1.642
+solar,upstage/SOLAR-10.7B-Instruct-v1.0,81.84,0.0,3.878,2.532,317.375,207.247

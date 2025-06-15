@@ -1,0 +1,4 @@
+,,generation_time,generation_time,tokens_per_second,tokens_per_second,tokens_generated,tokens_generated
+,,mean,std,mean,std,mean,std
+model_size,model_name,,,,,,
+ko-7b,beomi/llama-2-ko-7b,7.102,0.381,72.201,3.437,511.625,3.623

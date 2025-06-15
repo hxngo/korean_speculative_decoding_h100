@@ -1,0 +1,99 @@
+{
+  "experiment_info": {
+    "timestamp": "2025-06-15T02:02:16.567374",
+    "device": "cuda:0",
+    "gpu_name": "NVIDIA H100 80GB HBM3",
+    "total_gpu_memory": "84.9GB",
+    "model_cache_dir": "./models",
+    "h100_config": {
+      "max_memory_per_gpu": "15GB",
+      "batch_size": 1,
+      "max_new_tokens": 512,
+      "temperature": 0.7,
+      "top_p": 0.9,
+      "do_sample": true
+    }
+  },
+  "results": [
+    {
+      "model_size": "solar",
+      "model_name": "upstage/SOLAR-10.7B-Instruct-v1.0",
+      "prompt": "한국의 전통 음식에 대해 설명해주세요.",
+      "generated": "\nKorean traditional food, also known as Hanwoo, encompasses a wide variety of dishes that are deeply rooted in the country's history, culture, and regional diversity. Many Korean meals are based on rice, accompanied by various side dishes called banchan. The staple food, rice, is served in a communal bowl, and everyone takes a small portion onto their individual bowl using a spoon.\n\nOne of the most iconic Korean dishes is Kimchi, which is fermented vegetables, usually made with cabbage, radish, or cucumber. It is seasoned with a mixture of red pepper powder, garlic, ginger, and salt, and is an essential component of many meals, providing a sour and spicy flavor.\n\nAnother popular dish is Bulgogi, which is thinly sliced marinated beef that is grilled or stir-fried. The meat is typically marinated in soy sauce, sugar, garlic, sesame oil, and other seasonings for several hours or overnight, giving it a rich flavor.\n\nSoups and stews, known as guk and tang, respectively, are also an essential part of Korean cuisine. Samgyetang, or ginseng chicken soup, is made with a whole young chicken, filled with rice, ginseng, garlic, and various herbs. It's a popular summer dish believed to have healing and rejuvenating properties.\n\nTteokbokki is a popular street food consisting of cylindrical rice cakes stir-fried in a spicy red pepper sauce. It can be enjoyed as a snack or a side dish and is loved by people of all ages.\n\nThere are also many types of Korean noodles, including cold buckwheat noodles called naengmyeon, spicy stir-fried rice cakes and noodles called jjajangmyeon, and kalguksu, a noodle soup made with knife-cut noodles and various vegetables.\n\nIn addition to these dishes, Korean cuisine features a wide variety of grilled, steamed, and braised meats, seafood, and vegetables. Many meals are served in a communal style, with several banchan shared among the diners.\n\nIn summary, Korean traditional food is characterized by its balance of flavors, with an emphasis on fresh ingredients and",
+      "generation_time": 678.3857197761536,
+      "tokens_generated": 514,
+      "tokens_per_second": 0.7576810434181961,
+      "timestamp": "2025-06-15T01:03:45.345889"
+    },
+    {
+      "model_size": "solar",
+      "model_name": "upstage/SOLAR-10.7B-Instruct-v1.0",
+      "prompt": "AI 기술의 미래에 대한 당신의 생각은 무엇인가요?",
+      "generated": "\nAI 기술의 미래는 매우 창안 한것인데, 이 술은 ꞏꞏ ꞏꞏ ꞏꞏ ꞏꞏ ꞏꞏ ꞏꞏ ꞏꞏ ꞏꞏ ꞏꞏ ꞏꞏ ꞏꞏ ꞏꞏ ꞏꞏ ꞏꞏ ꞏꞏ ꞏꞏ ꞏꞏ ꞏꞏ ꞏꞏ ꞏꞏ ꞏꞏ ꞏꞏ ꞏꞏ ꞏꞏ ꞏꞏ ꞏꞏ ꞏꞏ ꞏꞏ ꞏꞏ ꞏꞏ ꞏꞏ ꞏꞏ ꞏꞏ ꞏꞏ ꞏꞏ ꞏꞏ ꞏꞏ ꞏꞏ ꞏꞏ ꞏꞏ ꞏꞏ ꞏꞏ ꞏꞏ ꞏꞏ ꞏꞏ ꞏꞏ ꞏꞏ ꞏꞏ ꞏꞏ ꞏꞏ ꞏꞏ ꞏꞏ ꞏꞏ ꞏꞏ ꞏꞏ ꞏꞏ ꞏꞏ ꞏꞏ ꞏꞏ ꞏꞏ ꞏꞏ ꞏꞏ ꞏꞏ ꞏꞏ ꞏꞏ ꞏꞏ ꞏꞏ ꞏꞏ ����",
+      "generation_time": 659.2392358779907,
+      "tokens_generated": 514,
+      "tokens_per_second": 0.7796866024144367,
+      "timestamp": "2025-06-15T01:14:44.586622"
+    },
+    {
+      "model_size": "solar",
+      "model_name": "upstage/SOLAR-10.7B-Instruct-v1.0",
+      "prompt": "기후 변화 문제를 해결하기 위한 방법을 제시해주세요.",
+      "generated": "\nThe issue of climate change is complex and requires a multifaceted approach to address it. Here are several potential ways to mitigate and resolve the problem:\n\n1. Reduce greenhouse gas emissions: This is the primary solution to combat climate change. Governments, industries, and individuals should adopt cleaner energy sources, such as wind, solar, and hydropower, and reduce the use of fossil fuels, which contribute significantly to greenhouse gas emissions.\n\n2. Promote energy efficiency: By improving energy efficiency in buildings, transportation, and industries, we can significantly reduce energy consumption and associated emissions. This can be achieved through better insulation, smarter lighting systems, and more fuel-efficient vehicles and appliances.\n\n3. Encourage reforestation and afforestation: Forests act as carbon sinks, absorbing CO2 from the atmosphere. Increasing the number of trees through reforestation and afforestation projects can help reduce greenhouse gas concentrations.\n\n4. Support carbon capture and storage technology: This technology captures carbon emissions from power plants and industrial processes, and stores it underground or in ocean sediments, preventing its release into the atmosphere.\n\n5. Promote sustainable agriculture and land use practices: Agriculture and deforestation contribute significantly to greenhouse gas emissions. Encouraging sustainable farming practices, such as crop rotation, reduced tillage, and conservation tillage, can help minimize emissions.\n\n6. Foster international cooperation: Climate change is a global issue, and countries must work together to achieve meaningful progress. International treaties, agreements, and partnerships can facilitate cooperation, set common goals, and foster the sharing of knowledge, technology, and resources.\n\n7. Educate the public and raise awareness: By educating people about the causes, consequences, and solutions to climate change, we can encourage individual actions and support for policy changes.\n\n8. Support climate research: Continued investment in climate research is crucial to better understand the complexities of the Earth's climate system and develop more effective solutions.\n\n9. Implement climate adaptation measures: In addition to mitigation efforts, societies must adapt to the changes already occurring, such as rising sea levels, increased temperatures, and altered precipitation patterns. This can include building sea walls, improving irrigation systems, and developing heat-resistant crops.\n\n10. Encourage sustainable consumption and production patterns: Shifting towards a circular economy and",
+      "generation_time": 655.2902994155884,
+      "tokens_generated": 514,
+      "tokens_per_second": 0.7843851808250539,
+      "timestamp": "2025-06-15T01:25:39.880485"
+    },
+    {
+      "model_size": "solar",
+      "model_name": "upstage/SOLAR-10.7B-Instruct-v1.0",
+      "prompt": "한국어 자연어 처리의 어려운 점은 무엇인가요?",
+      "generated": "\nKorean natural language processing presents several challenging aspects:\n\n1. Morphological complexity: Korean has a rich and complex morphology, where many words are formed by adding affixes or changing endings to root words. This makes it difficult to segment words accurately and recognize their parts of speech.\n\n2. Ambiguity: Due to the agglutinative nature of Korean, sentences can contain multiple meanings depending on how they are parsed. For instance, the order of words within a sentence can change its meaning. This makes the task of parsing and understanding sentences more complex.\n\n3. Hanja and Hangul: Korean has two writing systems - Hangul (an alphabetic system) and Hanja (ideographic Chinese characters). While Hangul is the preferred writing system, Hanja is still used in formal writing and certain contexts. Handling both systems can make processing more challenging.\n\n4. Context sensitivity: Korean grammar relies heavily on context to determine the meaning of words. This makes it difficult for machines to determine the intended meaning of a sentence without proper context.\n\n5. Tense and aspect: Korean verbs do not have a separate tense or aspect marker. Instead, their meanings are conveyed through a combination of affixes, particles, and adverbs. Understanding and correctly interpreting tense and aspect can be a challenge for natural language processing systems.\n\n6. Irregular verbs: Korean has a large number of irregular verbs, which can further complicate processing tasks, as their forms cannot be easily predicted.\n\n7. Proper nouns: Korean has a high frequency of proper nouns in texts, which can lead to difficulties in named entity recognition, as they are often not easily distinguishable from common nouns.\n\nOverall, the unique characteristics and complexities of the Korean language present challenges for natural language processing systems, requiring specialized and sophisticated techniques for effective processing and understanding.",
+      "generation_time": 533.2427728176117,
+      "tokens_generated": 418,
+      "tokens_per_second": 0.7838831041090755,
+      "timestamp": "2025-06-15T01:34:33.126321"
+    },
+    {
+      "model_size": "solar",
+      "model_name": "upstage/SOLAR-10.7B-Instruct-v1.0",
+      "prompt": "머신러닝과 딥러닝의 차이점을 설명해주세요.",
+      "generated": "\nA machine learning algorithm is a computational approach that enables a system to automatically learn and improve from experience. It relies on mathematical models, algorithms, and statistical methods to identify patterns and make predictions based on data. Machine learning algorithms can be supervised, unsupervised, or semi-supervised, depending on the level of guidance provided to the model.\n\nOn the other hand, deep learning is a subset of machine learning that uses neural networks with multiple layers to enable the model to learn and recognize complex features from the raw data. The deep neural network can automatically learn the features or representations of data at multiple levels of abstraction, starting from the raw input data.\n\nIn summary, the main difference between machine learning and deep learning is the approach to learning and modeling. Machine learning encompasses a wide variety of techniques, while deep learning is a specific approach that involves using multi-layered neural networks to automatically extract features from data and make predictions. Deep learning can be seen as an advanced form of machine learning, particularly well-suited for tasks such as image and speech recognition, natural language processing, and other applications involving high-dimensional data.",
+      "generation_time": 305.4184522628784,
+      "tokens_generated": 239,
+      "tokens_per_second": 0.7825329420315738,
+      "timestamp": "2025-06-15T01:39:38.547152"
+    },
+    {
+      "model_size": "solar",
+      "model_name": "upstage/SOLAR-10.7B-Instruct-v1.0",
+      "prompt": "한국 문화가 세계에 미치는 영향에 대해 논해보세요.",
+      "generated": "\nIn recent years, Korean culture has made a significant impact on the global stage, captivating audiences worldwide with its unique blend of tradition and modernity. The popularity of Korean music, films, television dramas, and fashion has not only increased the visibility of South Korea on the global map but has also created a profound influence on the world's cultural landscape.\n\nOne of the primary reasons behind the success of Korean culture lies in the K-pop music industry. K-pop has become a global phenomenon, with artists like BTS and BLACKPINK breaking records and gaining international recognition. K-pop's distinctive blend of catchy melodies, choreographed dance routines, and visually appealing concepts has garnered a massive global fan base. This popularity has led to the spread of Korean language and fashion, with fans worldwide embracing these elements of Korean culture.\n\nThe Korean film and television industry, popularly known as 'K-wave,' has also made a substantial impact on the global stage. K-dramas, with their captivating storylines, relatable characters, and unique aesthetics, have become a global sensation. These shows often explore universal themes such as love, friendship, and family, resonating with audiences worldwide. This popularity has led to increased demand for Korean content and a growing interest in Korean culture.\n\nSouth Korea's fashion industry, or 'K-fashion,' has also gained traction in recent years. The Korean style, often characterized by its blend of traditional and modern elements, has caught the attention of fashion enthusiasts globally. The influence of K-pop and K-dramas has led to the adoption of Korean fashion trends, with items such as skirts with slits, pastel colors, and oversized hoodies becoming popular worldwide.\n\nThe popularity of Korean cuisine, often referred to as 'K-food,' has also contributed to the cultural impact. Korean food has gained worldwide recognition, with dishes like Kimchi, Bibimbap, and Bulgogi being embraced by food lovers globally. This growing interest in Korean cuisine has led to the opening of Korean restaurants worldwide and an increase in the use of Korean ingredients in international recipes.\n\nIn conclusion, the impact of Korean culture on the global stage is undeniable. The success of K-pop, K-dramas, K-fashion, and K-food has not only increased the visibility of South Korea on the",
+      "generation_time": 655.4169442653656,
+      "tokens_generated": 514,
+      "tokens_per_second": 0.7842336157117894,
+      "timestamp": "2025-06-15T01:50:33.967417"
+    },
+    {
+      "model_size": "solar",
+      "model_name": "upstage/SOLAR-10.7B-Instruct-v1.0",
+      "prompt": "효율적인 학습 방법에 대한 조언을 해주세요.",
+      "generated": "\n\n학습 방법\n\nA: Effective learning involves a combination of various strategies that help you retain and apply new information. Here are some tips to improve your learning process:\n\n1. Set clear goals: Define what you want to achieve from your learning, and break it down into smaller, manageable steps.\n\n2. Create a conducive learning environment: Choose a quiet and well-lit place that is free from distractions. Ensure that you have all the necessary materials and resources.\n\n3. Understand your learning style: Some people learn better through visual aids, while others prefer auditory or kinesthetic methods. Understanding your preferred learning style will help you optimize your learning experience.\n\n4. Active reading: To improve your reading comprehension, try highlighting important concepts, summarizing sections, or asking yourself questions about the content.\n\n5. Take notes: This helps reinforce key points and organize your thoughts. Use different colors for headings, underline or highlight important information, and draw diagrams or mind maps.\n\n6. Practice spaced repetition: Instead of cramming, try learning in smaller chunks over time. This allows your brain to better retain the information.\n\n7. Use memory techniques: Techniques like mnemonics, association, or chunking can help you remember information more easily.\n\n8. Teach others: Explaining a concept to someone else helps solidify your understanding of it.\n\n9. Test yourself: Regular self-assessment helps identify your strengths and weaknesses. Use flashcards, quizzes, or practice tests.\n\n10. Stay motivated: Reward yourself for your progress, and don't be too hard on yourself if you struggle. Create a supportive study group, or find a mentor to help keep you motivated.\n\n11. Get enough rest: Sleeping helps your brain consolidate new information.\n\n12. Review regularly: Revisit past concepts and materials to maintain your knowledge and help retain the information.\n\nRemember that everyone learns differently, so it's essential to experiment and find the strategies that work best for you.",
+      "generation_time": 583.0663113594055,
+      "tokens_generated": 459,
+      "tokens_per_second": 0.7872174932039071,
+      "timestamp": "2025-06-15T02:00:17.036980"
+    },
+    {
+      "model_size": "solar",
+      "model_name": "upstage/SOLAR-10.7B-Instruct-v1.0",
+      "prompt": "인공지능과 인간의 협력 관계는 어떻게 발전할까요?",
+      "generated": "\n\nThe relationship between artificial intelligence and human collaboration: How will it evolve?\n\nTranslation: \n\n인공지능과인간의 협력 관계는 어떻게 발전할까요?는 'The relationship between artificial intelligence and human collaboration: How will it evolve?'의 Korean equivalent. Both sentences are discussing the future development of the partnership between artificial intelligence and human collaboration.",
+      "generation_time": 119.52316308021545,
+      "tokens_generated": 94,
+      "tokens_per_second": 0.7864584368212701,
+      "timestamp": "2025-06-15T02:02:16.561752"
+    }
+  ]
+}

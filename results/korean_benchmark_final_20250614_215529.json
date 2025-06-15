@@ -1,0 +1,18 @@
+{
+  "experiment_info": {
+    "timestamp": "2025-06-14T21:55:29.562134",
+    "device": "cuda:0",
+    "gpu_name": "NVIDIA H100 80GB HBM3",
+    "total_gpu_memory": "84.9GB",
+    "model_cache_dir": "./models",
+    "h100_config": {
+      "max_memory_per_gpu": "15GB",
+      "batch_size": 8,
+      "max_new_tokens": 512,
+      "temperature": 0.7,
+      "top_p": 0.9,
+      "do_sample": true
+    }
+  },
+  "results": []
+}

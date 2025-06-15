@@ -1,0 +1,7 @@
+,,generation_time,generation_time,tokens_per_second,tokens_per_second,tokens_generated,tokens_generated
+,,mean,std,mean,std,mean,std
+model_size,model_name,,,,,,
+1.5B,Qwen/Qwen2-1.5B-Instruct,0.955,0.0,536.103,0.0,512.0,0.0
+117M,microsoft/DialoGPT-small,0.146,0.0,37.745,27.205,5.5,3.964
+3.8B,microsoft/Phi-3.5-mini-instruct,1.702,0.0,301.031,0.437,512.375,0.744
+7B,Qwen/Qwen2-7B-Instruct,20.245,0.0,23.994,2.453,485.75,49.655

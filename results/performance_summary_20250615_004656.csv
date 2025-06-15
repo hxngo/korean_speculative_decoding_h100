@@ -1,0 +1,4 @@
+,,generation_time,generation_time,tokens_per_second,tokens_per_second,tokens_generated,tokens_generated
+,,mean,std,mean,std,mean,std
+model_size,model_name,,,,,,
+kogpt,kakaobrain/kogpt,1.962,1.841,23.879,18.623,62.875,74.677

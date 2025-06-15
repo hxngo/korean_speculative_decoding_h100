@@ -1,0 +1,7 @@
+,,generation_time,generation_time,tokens_per_second,tokens_per_second,tokens_generated,tokens_generated
+,,mean,std,mean,std,mean,std
+model_size,model_name,,,,,,
+ko-7b,beomi/llama-2-ko-7b,7.082,0.388,72.453,3.557,511.875,1.246
+kogpt,kakaobrain/kogpt,1.449,2.242,18.207,18.318,47.375,87.485
+kullm,nlpai-lab/kullm-polyglot-12.8b-v2,9.06,3.778,46.517,2.158,419.375,171.568
+solar,upstage/SOLAR-10.7B-Instruct-v1.0,452.838,250.941,0.714,0.009,322.875,177.525
